@@ -1,6 +1,6 @@
 #include "stdarg.h"
 #include "stdio.h"
-
+/* function printing line  with n as no */
 void print_line(int n)
 {
    int i =0;
